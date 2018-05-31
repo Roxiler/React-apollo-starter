@@ -4,4 +4,3 @@ This Project is starter kit for react apollo client based project. This Project 
 # To Run
 `cd directory_name`
 `yarn`
-`yarn dev`
