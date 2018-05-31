@@ -2,8 +2,6 @@
 This Project is starter kit for react apollo client based project. This Project already have some configurations to start with.
 
 # To Run
-`
-cd directory_name
-yarn
-yarn dev
-`
+`cd directory_name`
+`yarn`
+`yarn dev`
